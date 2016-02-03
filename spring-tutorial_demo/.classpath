@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/62552/workspace/spring-tutorial/spring-tutorial/unresolved dependency - org.springframework spring-context 4.1.6.RELEASE"/>
+	<classpathentry kind="lib" path="C:/Users/62552/workspace/spring-tutorial/spring-tutorial/unresolved dependency - org.springframework spring-jdbc 4.1.6.RELEASE"/>
+	<classpathentry kind="lib" path="C:/Users/62552/workspace/spring-tutorial/spring-tutorial/unresolved dependency - log4j log4j 1.2.16"/>
+	<classpathentry kind="lib" path="C:/Users/62552/workspace/spring-tutorial/spring-tutorial/unresolved dependency - org.aspectj aspectjweaver 1.8.5"/>
+	<classpathentry kind="lib" path="C:/Users/62552/workspace/spring-tutorial/spring-tutorial/unresolved dependency - org.aspectj aspectjrt 1.8.5"/>
+	<classpathentry kind="lib" path="C:/Users/62552/workspace/spring-tutorial/spring-tutorial/unresolved dependency - commons-dbcp commons-dbcp 1.2.2"/>
+	<classpathentry kind="lib" path="C:/Users/62552/workspace/spring-tutorial/spring-tutorial/unresolved dependency - mysql mysql-connector-java 5.1.6"/>
+</classpath>
